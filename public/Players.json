@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/383500/383559.6.jpg",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "player_type": "Bowler",
+      "batting_hand": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "price": 150000
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.siasat.com/wp-content/uploads/2022/11/virat-kohli-eng.jpg",
+      "name": "Virat Kohli",
+      "country": "India",
+      "player_type": "Batsman",
+      "batting_hand": "Right-hand bat",
+      "bowling_type": "Right-arm medium",
+      "price": 200000
+    },
+    {
+      "id": 3,
+      "image": "https://talksport.com/wp-content/uploads/sites/5/2020/02/NINTCHDBPICT000560096934-e1580844587730.jpg?w=620",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "player_type": "Wicketkeeper",
+      "batting_hand": "Left-hand bat",
+      "bowling_type": "N/A",
+      "price": 130000
+    },
+    {
+      "id": 4,
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/387800/387872.jpg",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "player_type": "Batsman",
+      "batting_hand": "Right-hand bat",
+      "bowling_type": "Right-arm offbreak",
+      "price": 180000
+    },
+    {
+      "id": 5,
+      "image": "https://e0.365dm.com/22/04/2048x1152/skysports-ben-stokes_5753476.png?20220427173533",
+      "name": "Ben Stokes",
+      "country": "England",
+      "player_type": "All-rounder",
+      "batting_hand": "Left-hand bat",
+      "bowling_type": "Right-arm fast-medium",
+      "price": 220000
+    },
+    {
+      "id": 6,
+      "image": "https://e0.pxfuel.com/wallpapers/776/913/desktop-wallpaper-indian-crickter-and-fast-bowler-jasprit-bumrah-in-action.jpg",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "player_type": "Bowler",
+      "batting_hand": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "price": 160000
+    },
+    {
+      "id": 7,
+      "image": "https://content.api.news/v3/images/bin/12a4727e80e1cd4f9435bf35f5d754e1",
+      "name": "David Warner",
+      "country": "Australia",
+      "player_type": "Batsman",
+      "batting_hand": "Left-hand bat",
+      "bowling_type": "Legbreak",
+      "price": 190000
+    },
+    {
+      "id": 8,
+      "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2gjl3w70qc898.cloudfront.net%2Fcontent%2Fuploads%2F2022%2F01%2F18185817%2FJofra-Archer.jpg",
+      "name": "Jofra Archer",
+      "country": "England",
+      "player_type": "Bowler",
+      "batting_hand": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "price": 140000
+    },
+    {
+      "id": 9,
+      "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2023/07/13/3905781-1685006871.jpg?itok=cyKnn1f0",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "player_type": "Batsman",
+      "batting_hand": "Right-hand bat",
+      "bowling_type": "Right-arm offbreak",
+      "price": 170000
+    }
+]
+  

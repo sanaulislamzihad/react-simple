@@ -1,0 +1,14 @@
+body{
+    font-family: "Sora", sans-serif;
+}
+
+/* Active Toggle Button  */
+.active{
+    background-color: rgb(20, 20, 61);
+    color: white;
+}
+
+/* Footer Background  */
+.footerbg{
+    background-color: #06091A;
+}
